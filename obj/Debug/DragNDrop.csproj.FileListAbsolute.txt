@@ -1,0 +1,12 @@
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.Form1.resources
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.Properties.Resources.resources
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.csproj.GenerateResource.cache
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.csproj.CoreCompileInputs.cache
+D:\vadymkon\Проги\TRY\DragNDrop\bin\Debug\DragNDrop.exe.config
+D:\vadymkon\Проги\TRY\DragNDrop\bin\Debug\DragNDrop.exe
+D:\vadymkon\Проги\TRY\DragNDrop\bin\Debug\DragNDrop.pdb
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.exe
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.pdb
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.Form2.resources
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\Interop.WMPLib.dll
+D:\vadymkon\Проги\TRY\DragNDrop\obj\Debug\DragNDrop.csproj.ResolveComReference.cache
